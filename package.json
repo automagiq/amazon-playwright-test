@@ -1,0 +1,23 @@
+{
+  "name": "amazon-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Zafar Tagiyev",
+    "email": "zafar@tagiyev.us",
+    "url": "https://www.tagiyev.us/"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "jest-playwright-preset": "^3.0.1"
+  },
+  "dependencies": {
+    "playwright": "^1.32.2"
+  }
+}
